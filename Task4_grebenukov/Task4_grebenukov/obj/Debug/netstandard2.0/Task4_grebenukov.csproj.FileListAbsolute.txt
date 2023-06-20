@@ -1,0 +1,17 @@
+D:\Uchebnaia_Practice_RMP\Task4_grebenukov\Task4_grebenukov\bin\Debug\netstandard2.0\Task4_grebenukov.deps.json
+D:\Uchebnaia_Practice_RMP\Task4_grebenukov\Task4_grebenukov\bin\Debug\netstandard2.0\Task4_grebenukov.dll
+D:\Uchebnaia_Practice_RMP\Task4_grebenukov\Task4_grebenukov\bin\Debug\netstandard2.0\ref\Task4_grebenukov.dll
+D:\Uchebnaia_Practice_RMP\Task4_grebenukov\Task4_grebenukov\bin\Debug\netstandard2.0\Task4_grebenukov.pdb
+D:\Uchebnaia_Practice_RMP\Task4_grebenukov\Task4_grebenukov\obj\Debug\netstandard2.0\Task4_grebenukov.csproj.AssemblyReference.cache
+D:\Uchebnaia_Practice_RMP\Task4_grebenukov\Task4_grebenukov\obj\Debug\netstandard2.0\Task4_grebenukov.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uchebnaia_Practice_RMP\Task4_grebenukov\Task4_grebenukov\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Uchebnaia_Practice_RMP\Task4_grebenukov\Task4_grebenukov\obj\Debug\netstandard2.0\CreditCalc.xaml.g.cs
+D:\Uchebnaia_Practice_RMP\Task4_grebenukov\Task4_grebenukov\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Uchebnaia_Practice_RMP\Task4_grebenukov\Task4_grebenukov\obj\Debug\netstandard2.0\Task4_grebenukov.AssemblyInfoInputs.cache
+D:\Uchebnaia_Practice_RMP\Task4_grebenukov\Task4_grebenukov\obj\Debug\netstandard2.0\Task4_grebenukov.AssemblyInfo.cs
+D:\Uchebnaia_Practice_RMP\Task4_grebenukov\Task4_grebenukov\obj\Debug\netstandard2.0\Task4_grebenukov.csproj.CoreCompileInputs.cache
+D:\Uchebnaia_Practice_RMP\Task4_grebenukov\Task4_grebenukov\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Uchebnaia_Practice_RMP\Task4_grebenukov\Task4_grebenukov\obj\Debug\netstandard2.0\Task4_grebenukov.dll
+D:\Uchebnaia_Practice_RMP\Task4_grebenukov\Task4_grebenukov\obj\Debug\netstandard2.0\ref\Task4_grebenukov.dll
+D:\Uchebnaia_Practice_RMP\Task4_grebenukov\Task4_grebenukov\obj\Debug\netstandard2.0\Task4_grebenukov.pdb
+D:\Uchebnaia_Practice_RMP\Task4_grebenukov\Task4_grebenukov\obj\Debug\netstandard2.0\ExchangeRates.xaml.g.cs
